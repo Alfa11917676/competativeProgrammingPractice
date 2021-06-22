@@ -1,0 +1,3 @@
+F:/sortingAlogs/cmake-build-debug/CMakeFiles/sortingAlogs.dir
+F:/sortingAlogs/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/sortingAlogs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
